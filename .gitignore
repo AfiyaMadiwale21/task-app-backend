@@ -1,0 +1,11 @@
+# Node
+node_modules/
+dist/
+.env
+.vscode/
+.DS_Store
+
+# Frontend (Vite/React)
+build/
+npm-debug.log
+yarn-error.log
